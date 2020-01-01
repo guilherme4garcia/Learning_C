@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577903225 source:d:\projects\curso c\giraffe\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1577903010 source:d:\projects\curso c\giraffe\printf.c
+	<stdio.h>
+	<stdlib.h>
+
+1577903040 source:d:\projects\curso c\giraffe\datatype.c
+	<stdio.h>
+	<stdlib.h>
+
