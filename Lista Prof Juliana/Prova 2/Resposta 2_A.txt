@@ -1,0 +1,2 @@
+2-
+a) A função chamada no programa a seguir não realizará a troca de valores, isso acontece porque as variáveis nessa função são apenas copias das variáveis originais da função principal, as  variáveis originais não irão trocar de valores quando você retornar para a função principal que será chamada. Para que a mudança permaneça é necessário fazer a troca atraves do endereço de memória, utilizando um ponteiro para resolver o problema.
